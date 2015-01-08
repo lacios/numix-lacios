@@ -1,0 +1,11 @@
+Package: numix-lacios
+Version: 0.1
+Architecture: all
+Maintainer: Blau Araujo <blau@lacios.org>
+Installed-Size: 900
+Depends: gtk2-engines-murrine (>= 0.90.3+git20100810)
+Section: gnome
+Priority: optional
+Homepage: http://lacios.org
+Description: Numix LaciOS and Numix LaciOS Light gtk themes
+ These themes are mods from the original Numix theme to fit LaciOS default artwork style.
